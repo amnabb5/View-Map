@@ -4,6 +4,7 @@
 View Map is a hybrid mapping tool that works fully **offline** using a 50GB local map dataset and also provides **online search**, **image metadata detection**, and **drive-time estimation**.
 
 ---
+<img width="1913" height="891" alt="Screenshot 2025-11-07 184734" src="https://github.com/user-attachments/assets/0010b595-87c0-4d73-a3c8-493f32a98156" />
 
 ## ✨ Features
 
